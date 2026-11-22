@@ -1,19 +1,18 @@
-## Hi there 👋
+## Hi, I'm Ali 👋
 
-<!--
-**Alimohamed147/Alimohamed147** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer and Data Science student at Alexandria University (graduating 2027), focused on **backend development** with **Java, Spring Boot, and C++**. I'm an **ACPC 2025 finalist**, a **Specialist on Codeforces** with 1,000+ problems solved, and a problem-solving coach at the FCDS ICPC Community. I also contribute to open source projects like Apache Fineract and Kestra.
 
-Here are some ideas to get you started:
+## Open Source Contributions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### Open Source Contributions
-[![Contributor](https://img.shields.io/badge/1st%20PR%20MERGED-KESTRA-1F232C?style=for-the-badge&logo=github&logoColor=200062&labelColor=CDC5FF)](https://kestra.io/community?from=github-badge)
 [![Apache Fineract](https://img.shields.io/badge/APACHE%20FINERACT-1%20PR%20MERGED-brightgreen?style=for-the-badge&logo=github&logoColor=white&labelColor=black)](https://github.com/apache/fineract/pull/6963)
+[![Kestra](https://img.shields.io/badge/KESTRA-1%20PR-8405FF?style=for-the-badge&logo=github&logoColor=white&labelColor=black)](https://github.com/kestra-io/kestra/pull/21695)
+
+## Main Skills
+
+[![My Skills](https://skillicons.dev/icons?i=java,spring,c,cpp,mysql,postgres,docker,postman,git,github,linux,idea,clion)](https://skillicons.dev)
+
+## Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-mohamed-4778842a8)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Ali__Mohamed-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Ali_Mohamed)
+[![LeetCode](https://img.shields.io/badge/LeetCode-alimohamed147-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/alimohamed147)
