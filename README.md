@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 ### Open Source Contributions
 [![Contributor](https://img.shields.io/badge/1st%20PR%20MERGED-KESTRA-1F232C?style=for-the-badge&logo=github&logoColor=200062&labelColor=CDC5FF)](https://kestra.io/community?from=github-badge)
+[![Apache Fineract](https://img.shields.io/badge/APACHE%20FINERACT-1%20PR%20MERGED-brightgreen?style=for-the-badge&logo=github&logoColor=white&labelColor=black)](https://github.com/apache/fineract/pull/6963)
