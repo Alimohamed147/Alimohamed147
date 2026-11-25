@@ -4,7 +4,7 @@ Computer and Data Science student at Alexandria University (graduating 2027), fo
 
 ## Open Source Contributions
 
-[![Apache Fineract](https://img.shields.io/badge/APACHE%20FINERACT-2%20PRs%20MERGED-brightgreen?style=for-the-badge&logo=github&logoColor=white&labelColor=black)]([https://github.com/apache/fineract/pull/6963](https://github.com/apache/fineract/pulls?q=is%3Apr+state%3Amerged+author%3AAlimohamed147))
+[![Apache Fineract](https://img.shields.io/badge/APACHE%20FINERACT-3%20PRs%20MERGED-brightgreen?style=for-the-badge&logo=github&logoColor=white&labelColor=black)](https://github.com/apache/fineract/pulls?q=is%3Apr+state%3Aclosed+author%3AAlimohamed147)
 [![Kestra](https://img.shields.io/badge/KESTRA-1%20PR-8405FF?style=for-the-badge&logo=github&logoColor=white&labelColor=black)](https://github.com/kestra-io/kestra/pull/21695)
 
 ## Main Skills
